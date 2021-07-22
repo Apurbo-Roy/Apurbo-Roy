@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apurbo-Roy
 - 👀 I’m interested in web developing 
-- 🌱 I’m currently learning python and php
+- 🌱 I’m currently learning python html and css
 - 💞️ I’m looking to collaborate on my friends and clients 
 - 📫 How to reach me? -- contact via email- apurboroy.cse@gmail.com 
 
